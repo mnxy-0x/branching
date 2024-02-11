@@ -1,0 +1,4 @@
+*.log 
+*.js 
+node_pkg/ 
+!vip.log  
